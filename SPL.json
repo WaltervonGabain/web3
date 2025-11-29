@@ -3,7 +3,17 @@
   "symbol": "XHT",
   "description": "Augmented reality token for X-HUNT project",
   "image": "https://github.com/WaltervonGabain/web3/blob/main/x-hunt%20token%20augmented%20reality%20resized.jpg?raw=true",
+  "seller_fee_basis_points": 0,
   "attributes": [
     { "trait_type": "Category", "value": "AR Gaming" }
-  ]
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/WaltervonGabain/web3/blob/main/x-hunt%20token%20augmented%20reality%20resized.jpg?raw=true",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
 }
